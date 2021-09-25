@@ -1,2 +1,2 @@
 # R-programming
-R
+R, KMU class
